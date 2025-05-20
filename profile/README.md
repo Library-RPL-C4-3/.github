@@ -25,7 +25,7 @@ Untuk menjawab tantangan tersebut, dibutuhkan sistem administrasi digital yang m
 
 
 ## Repository
- ###  [Frontend Repository (React.js)](https://github.com/Library-RPL-C4-3/Frontend)
+ ###  [Frontend Repository (React.js)](https://github.com/Library-RPL-C4-3/Frontend-new/tree/main)
  Repository ini berisi antarmuka pengguna berbasis React.js yang memfasilitasi monitoring dan pengelolaan data buku oleh admin perpustakaan. Fitur yang dikembangkan termasuk pencarian buku, pengelompokan, manajemen anggota, dan tampilan status peminjaman.
    
  ### [Backend Repository(Express.js)](https://github.com/Library-RPL-C4-3/Backend)
